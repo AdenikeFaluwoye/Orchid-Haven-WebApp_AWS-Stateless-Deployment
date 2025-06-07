@@ -19,7 +19,7 @@ This project showcases a **stateless deployment of a web application** for **Orc
 
 ---
 
-## 🛠️ Features
+##  Features
 
 - Stateless web app deployment (no database required)
 - HTML landing page showcasing a shortlet apartment with:
@@ -30,7 +30,7 @@ This project showcases a **stateless deployment of a web application** for **Orc
 
 ---
 
-## 🧑‍💻 How to Deploy
+##  How to Deploy
 
 1. **Create VPC with two public subnets**
 2. **Attach Internet Gateway** and update route table
@@ -42,7 +42,7 @@ This project showcases a **stateless deployment of a web application** for **Orc
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 > Inside the `/screenshots` folder:
 
@@ -53,14 +53,14 @@ This project showcases a **stateless deployment of a web application** for **Orc
 
 ---
 
-## 💾 Files Included
+##  Files Included
 
 - `user-data-script.sh` – EC2 bootstrap script to install Apache and deploy webpage
 - `screenshots/` – Project images
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **Amazon EC2**
 - **Amazon VPC**
@@ -71,19 +71,19 @@ This project showcases a **stateless deployment of a web application** for **Orc
 
 ---
 
-## 🧠 Real-World Relevance
+##  Real-World Relevance
 
 This project demonstrates how to deploy a **real-world static website** or informational app (e.g., Airbnb listing, business landing page, event site) using cloud-native AWS resources in a **stateless, scalable, and cost-effective** manner.
 
 ---
 
-## ✅ Status
+##  Status
 
-✅ Successfully deployed and tested.
+ Successfully deployed and tested.
 
 ---
 
-## 📄 License
+##  License
 
 This project is for learning and portfolio purposes.
 
